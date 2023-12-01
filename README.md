@@ -1,3 +1,3 @@
 # sample
 
-- An example repo for testing integrations.
+An example repo for testing integrations.
